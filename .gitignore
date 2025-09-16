@@ -1,1 +1,4 @@
+#Files to ignore
 Secrets.txt
+#Ignore files with this mark
+*.txt
